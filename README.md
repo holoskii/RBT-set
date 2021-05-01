@@ -4,7 +4,7 @@ Set implemented with red-black tree
 ## Functionality:  
   Insert and delete elements by value  
   Find whether element is present in set  
-  Get set's size  
+  Get set size  
   Clear content  
 More detailed information about functions is availablie in bst.h header  
   
