@@ -1,19 +1,19 @@
 # rbt-set
 Set implemented with red-black tree  
   
-Functionality:  
-    Insert and delete elements by value  
-    Find whether element is present in set  
-    Get set's size  
-    Clear content  
+## Functionality:  
+  Insert and delete elements by value  
+  Find whether element is present in set  
+  Get set's size  
+  Clear content  
 More detailed information about functions is availablie in bst.h header  
   
-Space complexity:  
+## Space complexity:  
 O(n)  
-Time complexity:  
+## Time complexity:  
 Search, Insert, Delete O(log n)  
   
-Performance testing  
+## Performance testing  
 Insertion and removal of elements, average time of 10 runs  
 Run time with 1e+01 batch size is 0.015ms  
 Run time with 1e+02 batch size is 0.074ms  
